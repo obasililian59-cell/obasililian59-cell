@@ -1,5 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
+I’m currently learning Responsive Web Design through freeCodeCamp.
+
+💻 What I'm doing:
+- Practicing HTML daily
+- Learning CSS step by step
+- Documenting my progress on GitHub
+
+🎯 My Goal:
+To become a skilled developer by focusing on consistency, structure, and continuous improvement.
+
+📌 Current Focus:
+HTML fundamentals and building small structured web pages.
+
+Thanks for visiting my profile!
 <!--
 **obasililian59-cell/obasililian59-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
