@@ -11,7 +11,7 @@ I’m currently learning Responsive Web Design through freeCodeCamp.
 To become a skilled developer by focusing on consistency, structure, and continuous improvement.
 
 📌 Current Focus:
-HTML fundamentals and building small structured web pages.
+HTML and CSS, building small structured web pages.
 
 Thanks for visiting my profile!
 <!--
